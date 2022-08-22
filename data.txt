@@ -1,0 +1,20 @@
+Name: Ramkumar
+Class: 9
+Age : 14
+Blood group: O+ve
+-------------------------------
+Name: Raj
+Class: 10
+Age : 15
+Blood group: A+ve
+-------------------------------
+Name: Ramesh
+Class: 8
+Age : 13
+Blood group: B+ve
+-------------------------------
+Name: Ganesh
+Class: 12
+Age : 17
+Blood group: O+ve
+-------------------------------
