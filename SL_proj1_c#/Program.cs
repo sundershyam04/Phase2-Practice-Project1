@@ -11,7 +11,7 @@ namespace SL_proj1
     {
         static void Main(string[] args)
         {
-            string file = @"C:\Users\SHYAM SUNDER\Desktop\SL_project1\data.txt";
+            string file = @"C:\Users\SHYAM SUNDER\Desktop\Proj1\SL_project1\data.txt";
             string line;
 
             //pass file path to stramreader class

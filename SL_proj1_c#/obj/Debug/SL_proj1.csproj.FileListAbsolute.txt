@@ -14,3 +14,11 @@ C:\Users\SHYAM SUNDER\Desktop\SL_proj1\obj\Debug\SL_proj1.csproj.SuggestedBindin
 C:\Users\SHYAM SUNDER\Desktop\SL_proj1\obj\Debug\SL_proj1.csproj.CoreCompileInputs.cache
 C:\Users\SHYAM SUNDER\Desktop\SL_proj1\obj\Debug\SL_proj1.exe
 C:\Users\SHYAM SUNDER\Desktop\SL_proj1\obj\Debug\SL_proj1.pdb
+C:\Users\SHYAM SUNDER\Desktop\Proj1\SL_project1\SL_proj1_c#\bin\Debug\SL_proj1.exe.config
+C:\Users\SHYAM SUNDER\Desktop\Proj1\SL_project1\SL_proj1_c#\bin\Debug\SL_proj1.exe
+C:\Users\SHYAM SUNDER\Desktop\Proj1\SL_project1\SL_proj1_c#\bin\Debug\SL_proj1.pdb
+C:\Users\SHYAM SUNDER\Desktop\Proj1\SL_project1\SL_proj1_c#\obj\Debug\SL_proj1.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\Proj1\SL_project1\SL_proj1_c#\obj\Debug\SL_proj1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\Proj1\SL_project1\SL_proj1_c#\obj\Debug\SL_proj1.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\Proj1\SL_project1\SL_proj1_c#\obj\Debug\SL_proj1.exe
+C:\Users\SHYAM SUNDER\Desktop\Proj1\SL_project1\SL_proj1_c#\obj\Debug\SL_proj1.pdb
